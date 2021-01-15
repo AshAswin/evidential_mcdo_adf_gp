@@ -13,3 +13,5 @@ The methods are evaluated the following 1D functions on Negative-Log-Likelihood(
 In order to view outputs of each methods, please uncomment the cell with corresponding function definitions and provide plot parameters accordingly.
 
 More structured version of these source code implementations will be available soon.
+
+Note: A portion of MCDO_ADF's implementation was taken from its [author's repository](https://github.com/mattiasegu/uncertainty_estimation_deep_learning) and loss function used in DER's notebook was taken from Deebul Nair's [blog](https://deebuls.github.io/devblog/about/).
