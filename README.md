@@ -12,4 +12,4 @@ The methods are evaluated the following 1D functions on Negative-Log-Likelihood(
 
 In order to view outputs of each methods, please uncomment the cell with corresponding function definitions and provide plot parameters accordingly.
 
-More structured version of these source code implementations will be updated soon.
+More structured version of these source code implementations will be available soon.
