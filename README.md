@@ -10,7 +10,7 @@ The methods are evaluated the following 1D functions on Negative-Log-Likelihood(
 * $y=0.1x^3+$
 * $y=-(1+x)sin(1.2x)$
 
-In order to view outputs of each methods, please uncomment the cell with corresponding function definitions and provide plot parameters accordingly.
+In order to view outputs of each methods, please enable the cell with corresponding function definitions and provide suitable plot parameters.
 
 More structured version of these source codes will be available soon.
 
